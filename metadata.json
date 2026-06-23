@@ -1,0 +1,6 @@
+{
+  "name": "MediKart",
+  "description": "Your Medicines, Delivered with Care. A professional healthcare delivery platform designed for Alipur Chatha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
